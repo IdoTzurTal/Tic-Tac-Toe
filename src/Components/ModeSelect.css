@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+h3 {
+    color: #ff1493;
+}
+
+button {
+    background-color: #8b008b;
+    color: white;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 40px;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #ff1493;
+    color: white;
+}
